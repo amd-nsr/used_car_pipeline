@@ -1,0 +1,5 @@
+pandas
+scikit-learn
+joblib
+apache-airflow==2.10.2
+streamlit
