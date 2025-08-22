@@ -116,4 +116,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## Author
 
-[Your Name](https://github.com/your-profile)
+[Ahmed Naser](https://github.com/amd-nsr)
